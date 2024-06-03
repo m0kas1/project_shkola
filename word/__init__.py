@@ -1,0 +1,1 @@
+from word.пп import add_word
